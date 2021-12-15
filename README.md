@@ -24,7 +24,7 @@ The dataset contains more than 14000 tweets data samples classified into 3 types
 > 
 > Project PPT Video : [Project PPT Video](https://youtu.be/9FzNJukg_fg)
 > 
-> Project Notebook Video : [Project Notebook Video](https://youtu.be/9FzNJukg_fg)
+> Project Notebook Video : [Project Notebook Video](https://www.youtube.com/watch?v=JTnJVg-HZN4)
 
 
 todo : 
