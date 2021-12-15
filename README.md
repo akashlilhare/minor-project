@@ -16,8 +16,12 @@ The dataset contains more than 14000 tweets data samples classified into 3 types
 
 ### Project Importent Link
 
-> Project Notebook : [Project Notebook]([https://colab.research.google.com/drive/1p8FTMqONkQ4louPkOcjqJwm7B31QO3JL?usp=sharing])
->Project  PPT : [Project PPT]([https://docs.google.com/presentation/d/1fEQ5Qm4IHRWeRgO40Ig7CRL5zZlh-oQu1DnG0sEirzM/edit?usp=sharing](https://docs.google.com/presentation/d/1fEQ5Qm4IHRWeRgO40Ig7CRL5zZlh-oQu1DnG0sEirzM/edit?usp=sharing))
->Project Synopises PPT : [to be added]([])
->Project PPT Video : [Project PPT Video]([[https://youtu.be/9FzNJukg_fg](https://youtu.be/9FzNJukg_fg)])
->Project Notebook Video : [Project Notebook Video]([[https://youtu.be/9FzNJukg_fg](https://youtu.be/9FzNJukg_fg)])
+> Project Notebook : [Project Notebook](https://colab.research.google.com/drive/1p8FTMqONkQ4louPkOcjqJwm7B31QO3JL?usp=sharing)
+> 
+> Project  PPT : [Project PPT](https://docs.google.com/presentation/d/1fEQ5Qm4IHRWeRgO40Ig7CRL5zZlh-oQu1DnG0sEirzM/edit?usp=sharing)
+> 
+> Project Synopises PPT : [to be added]()
+> 
+> Project PPT Video : [Project PPT Video](https://youtu.be/9FzNJukg_fg)
+> 
+> Project Notebook Video : [Project Notebook Video](https://youtu.be/9FzNJukg_fg)
