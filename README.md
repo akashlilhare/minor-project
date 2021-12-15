@@ -22,7 +22,7 @@ The dataset contains more than 14000 tweets data samples classified into 3 types
 > 
 > Project Synopises PPT : [to be added]()
 > 
-> Project PPT Video : [Project PPT Video](https://youtu.be/9FzNJukg_fg)
+> Project PPT Video : [Project PPT Video](https://youtu.be/kiwdTn8XHXY)
 > 
 > Project Notebook Video : [Project Notebook Video](https://www.youtube.com/watch?v=JTnJVg-HZN4)
 
