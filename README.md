@@ -25,3 +25,10 @@ The dataset contains more than 14000 tweets data samples classified into 3 types
 > Project PPT Video : [Project PPT Video](https://youtu.be/9FzNJukg_fg)
 > 
 > Project Notebook Video : [Project Notebook Video](https://youtu.be/9FzNJukg_fg)
+
+
+todo : 
+* video quality improve(1440 --> to higher resolution)
+* add collage name in synopsis
+
+
