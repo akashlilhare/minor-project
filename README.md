@@ -20,15 +20,10 @@ The dataset contains more than 14000 tweets data samples classified into 3 types
 > 
 > Project  PPT : [Project PPT](https://docs.google.com/presentation/d/1fEQ5Qm4IHRWeRgO40Ig7CRL5zZlh-oQu1DnG0sEirzM/edit?usp=sharing)
 > 
-> Project Synopises PPT : [to be added]()
+> Project Synopises PPT : [Project Synopises PPT](https://docs.google.com/presentation/d/1zgnNAs3cag249FULsKn5WnZH9mshUGp_DhkFdadX2lU/edit?usp=sharing)
 > 
 > Project PPT Video : [Project PPT Video](https://youtu.be/kiwdTn8XHXY)
 > 
 > Project Notebook Video : [Project Notebook Video](https://www.youtube.com/watch?v=JTnJVg-HZN4)
-
-
-todo : 
-* video quality improve(1440 --> to higher resolution)
-* add collage name in synopsis
 
 
